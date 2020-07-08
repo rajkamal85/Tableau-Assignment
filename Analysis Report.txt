@@ -1,0 +1,10 @@
+ANALYSIS: Bike Ridership - Jersey City - Q1'2020
+------------------------------------------------
+
+> While Jersey City's climate tends to be continental, influenced by winds from the west, it does experience temperature extremes throughout its four seasons. Summers are hot and humid and winters are moderately snowy.
+> My initial hypithesis that the bike ridership elevates, from Jan and moving to Mar in the first quarter.
+> While exploring and anlysis the data, it was found that ridership has declined to 38% in March compared to January. A primary reasin for this deline could be COVID-19 and Lockdowns happned across cities during intial response to the pandemic.
+> All years subscripts has fallen to substantial amount. Only 14,953 registered for subscriptions whereas it stood to 23,971 in the month of January. 
+> As expected, peak hours for renting are during Office Time, i.e between 8AM - 9AM and 5PM - 6PM. Jersey being another large corporate city with New York,  sees a huge amount of traffic during rush hours. Having bike to your office have advatages like: parking, saves time and keeps you healthy.
+> Interestingly, only 25% of women like to bike out of total population.Ans so, trips taken by males stands at whopping 47,021 as ooposed to only 16,039.
+> It is also observed that bussiest stations (which have highest number of trips taken), are either located near downtown, which makes sense because usually most offices are located at the center of city. But, places of other interests like places to hike and touristy places have high demand for bikes. 
